@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5567",
+  "folder": "Other__QA1QQIjJ_20260514003633_28ed4f",
+  "base_name": "Other__QA1QQIjJ_20260514003633_28ed4f.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Boksams/Cloud-Downloads-2/releases/tag/co-releases-v1-5567",
+  "files": [
+    {
+      "name": "Other__QA1QQIjJ_20260514003633_28ed4f.bin",
+      "url": "https://github.com/Boksams/Cloud-Downloads-2/releases/download/co-releases-v1-5567/Other__QA1QQIjJ_20260514003633_28ed4f.bin",
+      "api_url": "https://api.github.com/repos/Boksams/Cloud-Downloads-2/releases/assets/419745039",
+      "id": 419745039,
+      "size": 2254,
+      "download_count": 0
+    }
+  ]
+}
