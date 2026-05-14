@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6207",
+  "folder": "YouTube__watch_20260514001213_082ffd",
+  "base_name": "How_to_Transfer_Files_from_Mega_to_Google_Drive_(2026)_Mega_to_GDrive__6trExv6cxz4_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Boksams/Cloud-Downloads-2/releases/tag/co-releases-v1-6207",
+  "files": [
+    {
+      "name": "How_to_Transfer_Files_from_Mega_to_Google_Drive_.2026._Mega_to_GDrive__6trExv6cxz4_1080p.mp4",
+      "url": "https://github.com/Boksams/Cloud-Downloads-2/releases/download/co-releases-v1-6207/How_to_Transfer_Files_from_Mega_to_Google_Drive_.2026._Mega_to_GDrive__6trExv6cxz4_1080p.mp4",
+      "api_url": "https://api.github.com/repos/Boksams/Cloud-Downloads-2/releases/assets/419730385",
+      "id": 419730385,
+      "size": 12707169,
+      "download_count": 0
+    }
+  ]
+}
